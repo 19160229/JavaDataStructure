@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99147cca-9a5b-4a2b-94d2-447170d4f5f9" name="Default Changelist" comment="2019-2-16">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day05/Solution41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day05/Solution44.java" afterDir="false" />
+    <list default="true" id="99147cca-9a5b-4a2b-94d2-447170d4f5f9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode_day05/Solution44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode_day05/Solution44.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +29,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LeetCode_day05/Solution44.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            <state relative-caret-position="311">
+              <caret line="81" column="45" lean-forward="true" selection-start-line="56" selection-start-column="8" selection-end-line="81" selection-end-column="45" />
+              <folding>
+                <element signature="e#918#919#0" expanded="true" />
+                <element signature="e#954#955#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -153,7 +155,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550304532151" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550306781115" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -172,23 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution41.test">
-    <configuration name="Solution39.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_day04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="LeetCode_day04" />
-      <option name="MAIN_CLASS_NAME" value="LeetCode_day04.Solution39" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Solution44.test">
     <configuration name="Solution40.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -253,13 +239,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution44.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeetCode_day05" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode_day05.Solution44" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution44.test" />
         <item itemvalue="JUnit.Solution41.test" />
         <item itemvalue="JUnit.Solution43.test" />
         <item itemvalue="JUnit.Solution42.test" />
         <item itemvalue="JUnit.Solution40.test" />
-        <item itemvalue="JUnit.Solution39.test" />
       </list>
     </recent_temporary>
   </component>
@@ -278,29 +280,26 @@
       <workItem from="1550111683055" duration="16256000" />
       <workItem from="1550197158339" duration="17917000" />
       <workItem from="1550284115644" duration="1243000" />
-      <workItem from="1550287142537" duration="3583000" />
+      <workItem from="1550287142537" duration="5931000" />
     </task>
+    <task id="LOCAL-00001" summary="2019-2-16">
+      <created>1550304477569</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550304477569</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2019-2-16">
+      <created>1550304569816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550304569816</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solution43_test - 2019.02.15 at 18h 09m 35s.xml">
-      <configuration name="Solution43.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solution43_test - 2019.02.15 at 18h 10m 38s.xml">
-      <configuration name="Solution43.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solution41_test - 2019.02.16 at 15h 22m 36s.xml">
-      <configuration name="Solution41.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solution41_test - 2019.02.16 at 15h 23m 50s.xml">
-      <configuration name="Solution41.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solution41_test - 2019.02.16 at 15h 26m 28s.xml">
-      <configuration name="Solution41.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solution41_test - 2019.02.16 at 15h 28m 16s.xml">
-      <configuration name="Solution41.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Solution41_test - 2019.02.16 at 15h 29m 03s.xml">
       <configuration name="Solution41.test" configurationId="JUnit" />
     </history-entry>
@@ -313,14 +312,33 @@
     <history-entry file="Solution41_test - 2019.02.16 at 15h 31m 02s.xml">
       <configuration name="Solution41.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Solution44_test - 2019.02.16 at 16h 38m 38s.xml">
+      <configuration name="Solution44.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solution44_test - 2019.02.16 at 16h 38m 55s.xml">
+      <configuration name="Solution44.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solution44_test - 2019.02.16 at 16h 39m 17s.xml">
+      <configuration name="Solution44.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solution44_test - 2019.02.16 at 16h 39m 25s.xml">
+      <configuration name="Solution44.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solution44_test - 2019.02.16 at 16h 39m 54s.xml">
+      <configuration name="Solution44.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solution44_test - 2019.02.16 at 16h 40m 18s.xml">
+      <configuration name="Solution44.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75770000" />
+    <option name="totallyTimeSpent" value="78118000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="402" y="136" width="952" height="832" extended-state="0" />
+    <frame x="-6" y="-6" width="1381" height="925" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.39709172" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26832956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -329,7 +347,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299748" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49888143" visible="true" weight="0.3737518" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49962208" visible="true" weight="0.3299748" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39924434" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -338,7 +356,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.50111854" side_tool="true" visible="true" weight="0.3737518" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50037795" side_tool="true" weight="0.3299748" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3299748" />
       <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.3299748" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -731,8 +749,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode_day05/Solution44.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        <state relative-caret-position="311">
+          <caret line="81" column="45" lean-forward="true" selection-start-line="56" selection-start-column="8" selection-end-line="81" selection-end-column="45" />
+          <folding>
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
