@@ -1,42 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99147cca-9a5b-4a2b-94d2-447170d4f5f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day01/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day01/Solution11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day01/Solution12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day01/Solution13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day01/Solution14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day01/Solution15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day01/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day01/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day01/Solution4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day01/Solution5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day01/Solution6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day01/Solution8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day02/Solution16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day02/Solution17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day02/Solution17_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day02/Solution17_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day02/Solution17_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day02/Solution17_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day02/Solution18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day02/Solution18_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day03/Solution20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day03/Solution22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day03/Solution23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day03/Solution25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day03/Solution28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day04/Solution36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day04/Solution37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day04/Solution38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day04/Solution39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day04/Solution40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day04/Solution42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_day04/Solution43.java" afterDir="false" />
+    <list default="true" id="99147cca-9a5b-4a2b-94d2-447170d4f5f9" name="Default Changelist" comment="2019-2-16">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_day05/Solution41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_day05/Solution44.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,76 +17,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode_day04/Solution36.java">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode_day05/Solution41.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1216">
-              <caret line="64" column="63" selection-start-line="56" selection-start-column="8" selection-end-line="64" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode_day04/Solution37.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode_day04/Solution38.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
-              <folding>
-                <element signature="e#574#575#0" expanded="true" />
-                <element signature="e#624#625#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode_day04/Solution39.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1235">
-              <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+            <state relative-caret-position="368">
+              <caret line="38" column="29" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="38" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode_day04/Solution40.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#698#699#0" expanded="true" />
-                <element signature="e#784#785#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode_day04/Solution42.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode_day04/Solution43.java">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode_day05/Solution44.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="74" column="54" selection-start-line="74" selection-start-column="54" selection-end-line="74" selection-end-column="54" />
+            <state relative-caret-position="95">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -140,6 +55,12 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="GiovanniChien" />
+        <option value="Giovanni" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -180,12 +101,14 @@
         <option value="$PROJECT_DIR$/src/LeetCode_day04/Solution40.java" />
         <option value="$PROJECT_DIR$/src/LeetCode_day04/Solution42.java" />
         <option value="$PROJECT_DIR$/src/LeetCode_day04/Solution43.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode_day05/Solution41.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode_day05/Solution44.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-606" />
-    <option name="y" value="176" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="128" />
+    <option name="y" value="92" />
     <option name="width" value="1904" />
     <option name="height" value="1664" />
   </component>
@@ -215,7 +138,7 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode_day04" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode_day05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -230,12 +153,12 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550287156078" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550304390348" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -249,23 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution43.test">
-    <configuration name="Solution38.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_day04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="LeetCode_day04" />
-      <option name="MAIN_CLASS_NAME" value="LeetCode_day04.Solution38" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Solution41.test">
     <configuration name="Solution39.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -292,6 +199,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="LeetCode_day04" />
       <option name="MAIN_CLASS_NAME" value="LeetCode_day04.Solution40" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution41.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeetCode_day05" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode_day05.Solution41" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -332,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution41.test" />
         <item itemvalue="JUnit.Solution43.test" />
         <item itemvalue="JUnit.Solution42.test" />
         <item itemvalue="JUnit.Solution40.test" />
         <item itemvalue="JUnit.Solution39.test" />
-        <item itemvalue="JUnit.Solution38.test" />
       </list>
     </recent_temporary>
   </component>
@@ -355,48 +278,49 @@
       <workItem from="1550111683055" duration="16256000" />
       <workItem from="1550197158339" duration="17917000" />
       <workItem from="1550284115644" duration="1243000" />
+      <workItem from="1550287142537" duration="3583000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solution43_test - 2019.02.15 at 17h 50m 10s.xml">
-      <configuration name="Solution43.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solution43_test - 2019.02.15 at 17h 50m 18s.xml">
-      <configuration name="Solution43.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solution43_test - 2019.02.15 at 17h 50m 36s.xml">
-      <configuration name="Solution43.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solution43_test - 2019.02.15 at 17h 50m 56s.xml">
-      <configuration name="Solution43.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solution43_test - 2019.02.15 at 18h 07m 14s.xml">
-      <configuration name="Solution43.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solution43_test - 2019.02.15 at 18h 07m 26s.xml">
-      <configuration name="Solution43.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solution43_test - 2019.02.15 at 18h 09m 05s.xml">
-      <configuration name="Solution43.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solution43_test - 2019.02.15 at 18h 09m 14s.xml">
-      <configuration name="Solution43.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Solution43_test - 2019.02.15 at 18h 09m 35s.xml">
       <configuration name="Solution43.test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="Solution43_test - 2019.02.15 at 18h 10m 38s.xml">
       <configuration name="Solution43.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Solution41_test - 2019.02.16 at 15h 22m 36s.xml">
+      <configuration name="Solution41.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solution41_test - 2019.02.16 at 15h 23m 50s.xml">
+      <configuration name="Solution41.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solution41_test - 2019.02.16 at 15h 26m 28s.xml">
+      <configuration name="Solution41.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solution41_test - 2019.02.16 at 15h 28m 16s.xml">
+      <configuration name="Solution41.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solution41_test - 2019.02.16 at 15h 29m 03s.xml">
+      <configuration name="Solution41.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solution41_test - 2019.02.16 at 15h 30m 31s.xml">
+      <configuration name="Solution41.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solution41_test - 2019.02.16 at 15h 30m 47s.xml">
+      <configuration name="Solution41.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solution41_test - 2019.02.16 at 15h 31m 02s.xml">
+      <configuration name="Solution41.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72187000" />
+    <option name="totallyTimeSpent" value="75770000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1381" height="925" extended-state="6" />
+    <frame x="402" y="136" width="952" height="832" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26455027" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.39709172" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -405,7 +329,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299748" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3299748" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49888143" visible="true" weight="0.3737518" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39924434" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -414,7 +338,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.50111854" side_tool="true" visible="true" weight="0.3737518" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3299748" />
       <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.3299748" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -430,6 +354,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2019-2-16" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-2-16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -471,16 +399,6 @@
           <folding>
             <element signature="e#210#211#0" expanded="true" />
             <element signature="e#241#242#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode_day01/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -788,6 +706,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="346">
           <caret line="74" column="54" selection-start-line="74" selection-start-column="54" selection-end-line="74" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode_day01/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode_day05/Solution41.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="38" column="29" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="38" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode_day05/Solution44.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
