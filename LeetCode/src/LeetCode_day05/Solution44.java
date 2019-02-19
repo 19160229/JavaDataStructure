@@ -55,7 +55,7 @@ public class Solution44 {
 
     public boolean isMatch(String s, String p) {
         //表示主串的前i个字符与模式串的前j个字符是否匹配
-        boolean value[][]=new boolean[s.length()+1][p.length()+1];
+        boolean[][] value = new boolean[s.length() + 1][p.length() + 1];
         value[0][0]=true;
         //当模式串是空串时，一定不匹配
         for(int i=1;i<=s.length();i++){

@@ -2,8 +2,6 @@ package LeetCode_day05;
 
 import org.junit.Test;
 
-import java.util.Arrays;
-
 public class Solution41 {
 
     /**
